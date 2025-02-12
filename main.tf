@@ -5,3 +5,4 @@ resource "aws_instance" "my_EC2" {
     Name = "My_first"
   }
 }
+#access keys are added
